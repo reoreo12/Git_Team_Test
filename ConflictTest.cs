@@ -2,7 +2,7 @@
 
 public class ConflictTest
 {
-    public void Start()
+    public void Start() // 신이 버스에서 내리면? 신내림. 중이 따라서 내리면? 중도하차.
     {
         return 0;
     }
